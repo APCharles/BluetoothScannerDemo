@@ -21,5 +21,5 @@ Central端可以扫描并监听其感兴趣的任何广播信息的Peripheral设
 在Core Bluetooth框架中，服务是一个CBService对象，特性是一个CBCharacteristic对象。
 
 
-![image](https://github.com/APCharles/RuntimeArchiverDemo/blob/master/BluetoothScannerDemo/demo.gif)
+![image](https://github.com/APCharles/RuntimeArchiverDemo/blob/master/demo.gif)
 
